@@ -51,8 +51,73 @@ body {
 }
 
 .container {
-    padding: 100px;
-    text-align: left;
+    padding: 50px;
+    text-align: center;
+}
+
+.container_2 {
+    background: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    width: 50%; 
+    margin: 20px auto; 
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
+}
+
+.container_3 {
+    background: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    width: 50%; 
+    margin: 20px auto; 
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
+}
+
+.container_4 {
+    background: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    width: 50%; 
+    margin: 20px auto; 
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
+}
+
+.container_5 {
+    background: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    width: 50%; 
+    margin: 20px auto; 
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
+}
+
+.container_6 {
+    background: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    width: 50%; 
+    margin: 20px auto; 
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; 
 }
 
 .buttons {
@@ -65,13 +130,15 @@ body {
     padding: 15px 30px;
     border-radius: 20px;
     border: none;
-    background: #d9ecec;
+    background: #121348;
     cursor: pointer;
+    color: white;
 }
 
 .footer {
     background: #121348;
     color: white;
     padding: 10px;
-    margin-top: 150px;
+    margin-top: 20px;
 }
+
